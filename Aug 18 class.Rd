@@ -1,4 +1,4 @@
-# Author: Pawar, Date: 08/18/2021, Purpose: Calculate T test
+# Author: Dukes, Date: 08/18/2021, Purpose: Calculate T test
 
 # Creat 2 groups
 x = rnorm(10)
